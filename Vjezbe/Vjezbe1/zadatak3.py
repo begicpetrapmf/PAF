@@ -2,7 +2,6 @@
 # Ako korisnik pogriješi prilikom unosa koordinate opomenite ga da ponovi upis. 
 # Nakon što je korisnik uspješno upisao dvije koordinate ispišite na ekran jednadžbu pravca koji prolazi kroz te dvije točke.
 
-import numpy as np
 def koordinate_str(unos):
     while True:
         try:
